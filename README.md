@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Brian Ton! I'm a first year Math and Computer Science student at UCSD!
+My name is Brian Ton! I'm a Computer Science student at UCSD!
 
 - LinkedIn: https://www.linkedin.com/in/brian-m-ton/
 - 📫 How to reach me: brian.m.ton@gmail.com
