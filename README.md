@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtonbrian)](https://github.com/anuraghazra/github-readme-stats)
 
 My name is Brian Ton! I'm a Computer Science student at UCSD!
 
