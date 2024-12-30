@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Brian Ton! I'm a Computer Science student at UCSD!
+My name is Brian Ton! I've recently graduated as a Computer Science and Math student at UCSD! I'm now working as a software development engineer at Workday, starting in February.
 
 - Website: https://www.brianton.me
 - LinkedIn: https://www.linkedin.com/in/brian-m-ton/
